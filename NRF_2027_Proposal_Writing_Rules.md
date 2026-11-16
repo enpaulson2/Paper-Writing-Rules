@@ -32,6 +32,7 @@ For every relevant page of the official guideline, record:
 | Page 2 | No late relief is provided; completion 1-2 days before the deadline is recommended because of likely IRIS traffic. | A late technical submission is not a viable plan. | Build a buffer into the submission schedule |
 | Page 2 | **IRIS/NRI prerequisites:** all participating researchers, including student researchers, need IRIS membership and NRI researcher conversion/number; the PI also needs NRI education, career, department, and research-performance information. | Your Hanyang department affiliation and the last five years of completed, ongoing, and applied projects should be correct in NRI before submission opens. | Verify and update NRI profile; not started |
 | Page 2 | The host institution needs IRIS registration, an authorised institutional administrator, and a registered representative before a researcher can complete submission. | This is primarily Hanyang's responsibility, but should be confirmed early with the research-administration office. | Confirm institutional readiness; not started |
+| Page 3 | **Core Research Type A support plan:** approximately KRW 100 million per year, for a maximum of 5 years. The programme is shown as a continuing subprogramme for 2027. | The research plan, milestones, staffing, equipment, travel, and other costs should be defensible within an annual envelope of about KRW 100 million and a five-year maximum duration. | Use as the provisional budget and work-plan boundary; confirm cost composition in later pages |
 
 ## Evaluation and scoring criteria
 
@@ -43,6 +44,7 @@ For every relevant page of the official guideline, record:
 - [ ] Complete Type A PI submission and institutional-review steps ahead of the official deadlines.
 - [ ] Verify the NRI record: education, career, Hanyang department, and five-year project history.
 - [ ] Identify the exact Core Research Type A eligibility, duration, and funding rules.
+- [ ] Plan the proposal around an approximate KRW 100 million annual budget and a maximum five-year project period; confirm detailed cost rules later.
 - [ ] Extract the evaluation criteria, weights, and reviewer guidance.
 - [ ] Map every criterion to a proposal section, evidence source, or planned figure/table.
 - [ ] Verify all required forms, consents, and institutional approvals.
@@ -54,3 +56,4 @@ For every relevant page of the official guideline, record:
 |---|---|
 | 2026-11-17 | Tracker created; page 1 reviewed and logged. |
 | 2026-11-17 | Page 2 logged: Type A deadlines, IRIS/NRI prerequisites, and institutional approval dependency. |
+| 2026-11-17 | Page 3 logged: Core Research Type A provisional funding and duration boundary. |
