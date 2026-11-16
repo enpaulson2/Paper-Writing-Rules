@@ -49,6 +49,14 @@ For every relevant page of the official guideline, record:
 | Page 5 | After the host institution's submission deadline, application data (including research field and budget) and files cannot be changed. | Freeze the final proposal and metadata before Hanyang's approval deadline. | Confirm Hanyang's internal cutoff |
 | Page 5 | Verify that the correct programme and research type are selected, and that the uploaded proposal is the final, unencrypted, error-free version. Total attachments may not exceed 2 GB; each attachment may not exceed 500 MB. | Use a final-file checklist and upload test before submission. | Include in submission runbook |
 
+## Pending budget-design questions and working assumptions
+
+- [ ] Confirm from the grant-management and R&D-cost rules whether the annual Core Research Type A direct-cost cap of KRW 80 million covers personnel/salary, publication charges, conference registration and travel, equipment, research materials, and other direct-cost categories.
+- [ ] Build a justified annual direct-expense table before proposal drafting, responding explicitly to the earlier reviewer concern about insufficient expense justification.
+- [ ] Provisional publication-cost planning: reserve roughly KRW 5-6 million per year for journal publication and excess-page charges, subject to the eligible-cost rules and final publication plan.
+- [ ] Provisional dissemination planning: include one or two domestic conferences (for example, KICS in Jeju) and one top-tier international conference annually; estimate registration, travel, and accommodation from current official conference fees.
+- [ ] Treat any open-access fee, including a possible IEEE Access article-processing charge, as a proposed item only until its allowability and supporting rationale are confirmed.
+
 ## Evaluation and scoring criteria
 
 *To be populated when the guideline reaches the evaluation and assessment sections. Each criterion will be translated into a proposal-writing and evidence checklist.*
@@ -83,3 +91,4 @@ For every relevant page of the official guideline, record:
 | 2026-11-17 | Page 4 logged: application checklist, eligibility screening, project limits, eligible publications, and direct-cost budgeting. |
 | 2026-11-17 | Page 5 logged: resubmission after edits, length limits, budget-data accuracy, final-file controls, and attachment limits. |
 | 2026-11-17 | Page 7 logged: Type A applicant category, direct-cost cap, duration, and programme purpose; budget entry corrected from provisional programme-map amount. |
+| 2026-11-17 | Added pending budget-design questions: personnel, publication charges, conference costs, and expense-justification table. |
