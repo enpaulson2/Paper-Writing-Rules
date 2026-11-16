@@ -40,6 +40,8 @@ For every relevant page of the official guideline, record:
 | Page 9 | In the first round, an applicant may apply for one programme from the listed Individual Research schemes. A Leader Research application and one Core Research application among Type C, B, A, and Leap Type may be submitted concurrently. | For the present plan, submit Core Research Type A only unless there is a deliberate, independently justified Leader Research application. | Type A only; current plan |
 | Page 9 | Only one Individual Research project may ultimately be selected for a PI. When selections overlap, the higher programme takes priority: group research > Leader Research > Core Research; group research and Core Research may be selected concurrently. | Confirm that no competing application or selection will create an avoidable conflict. | Check before submission |
 | Page 9 | Researchers newly selected through the first-round Individual Research call may not apply for a further new Individual Research project in the same year’s second round. | Type A selection would close the option to apply for second-round individual-research schemes in 2027. | Record strategic choice |
+| Page 10 | The first-round Core Research stream, including Type A, is scheduled to begin on **1 March 2027**; its call is in November 2026 and application period is late November to early December 2026. | Use 1 March 2027 as the provisional start of the Type A research plan, annual milestones, and first-year budget. | Apply in work-plan schedule |
+| Page 10 | Individual Basic Research applicants do **not** write a National Strategic Technology classification based on technological characteristics/maturity. | Do not force the proposal into a National Strategic Technology category unless another part of IRIS explicitly requires it. | Apply in application form |
 | Page 4 | IRIS submission requires completion of **Final Check** with no errors, followed by clicking **Submit**, before the 18:00:00 researcher deadline. | Uploading files or saving a draft is insufficient. The final IRIS submission sequence should be performed and evidenced before the deadline. | Include in final submission runbook |
 | Page 4 | An application may be technically received even if eligibility is not met, but it may later be excluded at pre-review or have selection cancelled. | Do not rely on successful upload as proof of eligibility; verify every Type A condition before submission. | Create a Type A eligibility checklist when the dedicated rules appear |
 | Page 4 | A researcher may simultaneously perform up to 5 R&D projects, of which up to 3 may be as PI. Within Individual Basic Research, only 1 project may be performed as PI. | Confirm the current project portfolio and planned commitments do not conflict with the Type A award. | Verify active-project and PI counts |
@@ -85,6 +87,7 @@ For every relevant page of the official guideline, record:
 - [ ] Upload an unencrypted final proposal; keep total attachments within 2 GB and each file within 500 MB.
 - [ ] Confirm current R&D-project and PI-project counts comply with the individual-research limits.
 - [ ] Check that no other first- or second-round Individual Research application conflicts with the Core Type A application strategy.
+- [ ] Draft the Type A work plan and first-year budget from a provisional 1 March 2027 research start date.
 - [ ] List only published, accepted, or in-press papers as eligible research outputs.
 - [ ] Prepare the proposal budget as direct costs only; indirect costs are outside the applicant request.
 - [ ] Conduct a final compliance cross-check before IRIS submission.
@@ -102,3 +105,4 @@ For every relevant page of the official guideline, record:
 | 2026-11-17 | Added pending budget-design questions: personnel, publication charges, conference costs, and expense-justification table. |
 | 2026-11-17 | Corrected annual dissemination budget to a combined KRW 8 million ceiling and added current IEEE publication-fee estimates. |
 | 2026-11-17 | Page 9 logged: Type A first-round scope, concurrent-application rule, selection priority, and second-round consequence. |
+| 2026-11-17 | Page 10 logged: provisional 1 March 2027 Core Type A start and no National Strategic Technology classification requirement. |
