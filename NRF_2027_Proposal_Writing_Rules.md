@@ -44,6 +44,7 @@ For every relevant page of the official guideline, record:
 | Page 10 | Individual Basic Research applicants do **not** write a National Strategic Technology classification based on technological characteristics/maturity. | Do not force the proposal into a National Strategic Technology category unless another part of IRIS explicitly requires it. | Apply in application form |
 | Page 11 | **Core Research Type A timetable:** call announced 5 Nov 2026; PI proposal deadline 7 Dec 2026; host-institution review/approval deadline 9 Dec 2026; selection evaluation January-February 2027; final selection and research start March 2027 (1 March). Dates may change with implementation circumstances. | Plan readiness for the December deadline, then expect an approximately two-month evaluation period before a 1 March start. | Use in proposal and personal planning |
 | Page 13 | NRF’s 2027 policy direction shifts performance management away from paper/patent counts and toward qualitative achievement: research challenge, diligence, contribution, use/impact, and the fit between research content and outcomes. It also says quantitative research targets should be limited in plans and related forms. | Frame expected outputs as qualitative scientific advances, validated knowledge, and societal/technical contribution—not as promised publication or patent counts. This is policy direction; confirm the dedicated Type A form when available. | Apply in proposal outcome/impact drafting |
+| Page 14 | The current call is limited to **initial-new (최초신규)** projects selected in 2027. It does not cover follow-on new projects (후속신규) for high-performing projects ending in 2027. | Apply through the initial-new Core Type A path; do not treat this call as a follow-on-project route. | Verify correct IRIS category |
 | Page 4 | IRIS submission requires completion of **Final Check** with no errors, followed by clicking **Submit**, before the 18:00:00 researcher deadline. | Uploading files or saving a draft is insufficient. The final IRIS submission sequence should be performed and evidenced before the deadline. | Include in final submission runbook |
 | Page 4 | An application may be technically received even if eligibility is not met, but it may later be excluded at pre-review or have selection cancelled. | Do not rely on successful upload as proof of eligibility; verify every Type A condition before submission. | Create a Type A eligibility checklist when the dedicated rules appear |
 | Page 4 | A researcher may simultaneously perform up to 5 R&D projects, of which up to 3 may be as PI. Within Individual Basic Research, only 1 project may be performed as PI. | Confirm the current project portfolio and planned commitments do not conflict with the Type A award. | Verify active-project and PI counts |
@@ -76,6 +77,7 @@ For every relevant page of the official guideline, record:
 
 - [ ] Confirm all IRIS researcher-profile and institutional-registration requirements.
 - [ ] Complete Type A PI submission and institutional-review steps ahead of the official deadlines.
+- [ ] Confirm that the IRIS application is categorised as 2027 initial-new (최초신규), not follow-on new (후속신규).
 - [ ] Verify the NRI record: education, career, Hanyang department, and five-year project history.
 - [x] Identify the Core Research Type A applicant category, duration, and direct-cost cap; confirm the Hanyang appointment classification if required.
 - [ ] Choose a 1-5 year duration and prepare annual direct costs of no more than KRW 80 million; indirect costs are separate.
@@ -112,3 +114,4 @@ For every relevant page of the official guideline, record:
 | 2026-11-17 | Page 10 logged: provisional 1 March 2027 Core Type A start and no National Strategic Technology classification requirement. |
 | 2026-11-17 | Page 11 logged: Type A evaluation January-February 2027 and final selection/research start in March. |
 | 2026-11-17 | Page 13 logged: qualitative-performance direction and the need to emphasise challenge, contribution, and use/impact over output counts. |
+| 2026-11-17 | Page 14 logged: this call covers initial-new projects only, not follow-on new projects. |
