@@ -53,9 +53,12 @@ For every relevant page of the official guideline, record:
 
 - [ ] Confirm from the grant-management and R&D-cost rules whether the annual Core Research Type A direct-cost cap of KRW 80 million covers personnel/salary, publication charges, conference registration and travel, equipment, research materials, and other direct-cost categories.
 - [ ] Build a justified annual direct-expense table before proposal drafting, responding explicitly to the earlier reviewer concern about insufficient expense justification.
-- [ ] Provisional publication-cost planning: reserve roughly KRW 5-6 million per year for journal publication and excess-page charges, subject to the eligible-cost rules and final publication plan.
-- [ ] Provisional dissemination planning: include one or two domestic conferences (for example, KICS in Jeju) and one top-tier international conference annually; estimate registration, travel, and accommodation from current official conference fees.
-- [ ] Treat any open-access fee, including a possible IEEE Access article-processing charge, as a proposed item only until its allowability and supporting rationale are confirmed.
+- **Annual ceiling for publications and dissemination combined:** no more than **KRW 8 million**. This covers all planned publication-related costs plus two domestic conferences and one top-tier international conference.
+- **Annual publication plan:** three paid publications - two conventional subscription/hybrid IEEE journal papers, each potentially 8-10 final typeset pages over the free limit; plus one fully open-access paper, potentially in IEEE Access or IEEE Open Journal of the Communications Society (OJ-COMS).
+- **Current official IEEE publication pricing, to reconfirm at submission:** IEEE Access APC: US$2,160 plus applicable tax, no page-limit or overlength fee. OJ-COMS APC: US$2,160; no page limit. IEEE TWC and IEEE TCOM: mandatory US$220 per final typeset page beyond 10 pages; an 8-10-page overlength implies US$1,760-2,200 per paper. The US$110 charge for each of the first 10 TWC/TCOM pages is voluntary and is not a publication prerequisite.
+- **Publication-feasibility warning:** before tax, the two overlength hybrid papers plus one undiscounted OA paper total roughly US$5,680-6,560. With the 20% IEEE Society member APC discount applied to the OA article only, the total is roughly US$5,248-6,128. This is likely to consume most or all of the KRW 8 million annual ceiling before conference costs, so the final mix should be adjusted after official conference-fee estimates and the applicable exchange rate are known.
+- [ ] Obtain current official fees for two chosen hybrid/subscription journals, two domestic conferences (including KICS if selected), and one international conference; then create a KRW-denominated annual cost table.
+- [ ] Treat all APCs, excess-page fees, conference registration, travel, and accommodation as proposed items only until their allowability and supporting rationale are confirmed.
 
 ## Evaluation and scoring criteria
 
@@ -92,3 +95,4 @@ For every relevant page of the official guideline, record:
 | 2026-11-17 | Page 5 logged: resubmission after edits, length limits, budget-data accuracy, final-file controls, and attachment limits. |
 | 2026-11-17 | Page 7 logged: Type A applicant category, direct-cost cap, duration, and programme purpose; budget entry corrected from provisional programme-map amount. |
 | 2026-11-17 | Added pending budget-design questions: personnel, publication charges, conference costs, and expense-justification table. |
+| 2026-11-17 | Corrected annual dissemination budget to a combined KRW 8 million ceiling and added current IEEE publication-fee estimates. |
