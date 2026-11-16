@@ -40,6 +40,11 @@ For every relevant page of the official guideline, record:
 | Page 4 | Only publications that are confirmed for publication, including accepted or in-press papers, may be listed in the application. | Do not list manuscripts merely under review or in preparation as publications/representative outputs. | Build evidence list from published, accepted, or in-press papers only |
 | Page 4 | Applicants request **direct costs only**. Indirect costs are calculated by NRF after selection and paid separately. | The Type A budget table should be prepared as direct cost; do not add indirect cost to the requested amount. | Apply in budget preparation |
 | Page 4 | If eligible for performance-excellence preference, the required evidence must be attached through the IRIS plan-submission screen by the institutional deadline; otherwise the preference is not applied. | Check later whether any preference category applies and attach proof on time. | Review page 22 and eligibility later |
+| Page 5 | After a PI submission is retrieved for editing, click **Retrieve**, correct the file/data, pass Final Check with no errors, and click **Submit** again. Institutional rejection is not required for this cycle. | Any post-submission revision is incomplete until the proposal is re-submitted in IRIS. | Include in revision-control procedure |
+| Page 5 | The programme-specific proposal page/length limit must be observed; exceeding it may lead to disadvantage. | Use the exact Type A template and page limit when they appear; do not compress extra material beyond the permitted length. | Pending Type A template and page-limit section |
+| Page 5 | Enter each year's direct-cost amount and the currency/amount unit correctly. There is no separate remedy for a unit-entry error. | Conduct a separate numerical check of every annual direct-cost figure and its unit before final submission. | Include in budget QA checklist |
+| Page 5 | After the host institution's submission deadline, application data (including research field and budget) and files cannot be changed. | Freeze the final proposal and metadata before Hanyang's approval deadline. | Confirm Hanyang's internal cutoff |
+| Page 5 | Verify that the correct programme and research type are selected, and that the uploaded proposal is the final, unencrypted, error-free version. Total attachments may not exceed 2 GB; each attachment may not exceed 500 MB. | Use a final-file checklist and upload test before submission. | Include in submission runbook |
 
 ## Evaluation and scoring criteria
 
@@ -56,6 +61,10 @@ For every relevant page of the official guideline, record:
 - [ ] Map every criterion to a proposal section, evidence source, or planned figure/table.
 - [ ] Verify all required forms, consents, and institutional approvals.
 - [ ] Complete IRIS Final Check without errors, then click Submit before the PI deadline.
+- [ ] If an IRIS submission is edited after retrieval, repeat Final Check and Submit.
+- [ ] Check the Type A proposal page limit and template before writing the final draft.
+- [ ] Perform a second-person or delayed numerical check of annual direct-cost figures and units.
+- [ ] Upload an unencrypted final proposal; keep total attachments within 2 GB and each file within 500 MB.
 - [ ] Confirm current R&D-project and PI-project counts comply with the individual-research limits.
 - [ ] List only published, accepted, or in-press papers as eligible research outputs.
 - [ ] Prepare the proposal budget as direct costs only; indirect costs are outside the applicant request.
@@ -69,3 +78,4 @@ For every relevant page of the official guideline, record:
 | 2026-11-17 | Page 2 logged: Type A deadlines, IRIS/NRI prerequisites, and institutional approval dependency. |
 | 2026-11-17 | Page 3 logged: Core Research Type A provisional funding and duration boundary. |
 | 2026-11-17 | Page 4 logged: application checklist, eligibility screening, project limits, eligible publications, and direct-cost budgeting. |
+| 2026-11-17 | Page 5 logged: resubmission after edits, length limits, budget-data accuracy, final-file controls, and attachment limits. |
